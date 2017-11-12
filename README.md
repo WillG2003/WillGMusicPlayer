@@ -37,4 +37,4 @@ Use in Windows:
 7-Double-Click a Song in the populated playlist(the selected entry will turn red).
 
 8-Click Play to start the song
-  
+   
