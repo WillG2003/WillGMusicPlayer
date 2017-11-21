@@ -1,0 +1,18 @@
+//Build V09 Changes
+1-Load saved user properties at start up
+2-Add "Reset to Default" button to all options tree-cards properties
+3-Add condition(AutoLoadPlayList&AutoLoadLibrary) to load playlist at start up. This was causing errors when loading
+  elements from a playlist not included in a scanned library
+4-Auto load library before play list
+5-Error Handling if Library Autoload fails on FileNotFoundException or IOException
+  --> stop AutoLoadPlayList to happen if (add LibraryLoadFail boolean to main scope)
+6-Error Handling if PlayList autoload fails on FileNotFoundException or IOException
+  --> do nothing, no consequences to missing  playlist files, the apps should just Logg it and continue
+7-Add Gui error prompt when Lib Analysis  thread fails.
+8-Comment out JRE copy/move in post-script to save space
+9-Add code to delete LibaryFile on failure (add has method to LibAnalysisThread class)
+10-Add Success validation message when lib Analysis is complete and successful
+
+
+//Build V10 Changes
+1-Add Current Song Playing in the of the control GUI panel
