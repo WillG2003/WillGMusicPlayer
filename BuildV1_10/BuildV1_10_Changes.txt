@@ -1,0 +1,2 @@
+//Build V10 Changes
+1-Add Current Song Playing in the of the control GUI panel
