@@ -4,21 +4,13 @@ music player for .mp3, .wav, .flac
 Basic Java Music Player for .mp3, .wav, and .flac files Uses the following java libs:
 
 -jaudiotagger-2.0.3.jar 
-
 -jflac-1.3
-
 -jdk1.4.jar 
-
 -jflac-1.3.jar 
-
 -jl1.0.1.jar 
-
 -mp3plugin.jar 
-
 -mp3spi1.9.5.jar 
-
 -opencsv-3.8.jar 
-
 -tritonus_share-0.3.6.jar
 
 Requires the installation of -Python 2.7 -JDK 8 (JDK 7 is also fine)
