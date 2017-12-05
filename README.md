@@ -29,10 +29,15 @@ Use in Windows:
 5-Go back to the Player tab and select a playlist to make (Rap, Punk, Metal, or Rock).
 
 6-Building a playlist:
+
   6-1:Right Click an Artists to add all artist's songs to the current playlist
+  
   6-2:Right Click an Artist's album to add the album's songs to the selected playlist
+  
   6-3:Right Click a Song to add it to the current  playlist
+  
   6-4:Click "Save PlayList" to save a playlist for further use
+  
   
 7-Double-Click a Song in the populated playlist(the selected entry will turn red).
 
